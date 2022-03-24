@@ -42,3 +42,7 @@ end
 gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
 
 gem 'rubocop', '~> 1.26'
+
+gem 'active_model_serializers', '~> 0.10.13'
+
+gem 'faker', '~> 2.20'
